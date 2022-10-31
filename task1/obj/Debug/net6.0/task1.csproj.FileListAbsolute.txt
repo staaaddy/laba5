@@ -1,0 +1,15 @@
+/Users/dima/Desktop/OOP/lab5/task1/bin/Debug/net6.0/task1
+/Users/dima/Desktop/OOP/lab5/task1/bin/Debug/net6.0/task1.deps.json
+/Users/dima/Desktop/OOP/lab5/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/dima/Desktop/OOP/lab5/task1/bin/Debug/net6.0/task1.dll
+/Users/dima/Desktop/OOP/lab5/task1/bin/Debug/net6.0/task1.pdb
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.dll
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.pdb
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/dima/Desktop/OOP/lab5/task1/obj/Debug/net6.0/ref/task1.dll
